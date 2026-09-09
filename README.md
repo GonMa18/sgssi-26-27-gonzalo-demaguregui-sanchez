@@ -2,7 +2,7 @@
 
 # 🚀 WELCOME TO MY REPOSITORY
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=flat-square&color=blue" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=GonMa18&style=flat-square&color=blue" alt="Visitor Count" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
@@ -22,5 +22,5 @@
 ¡Hola! Bienvenido a mi espacio de código. Aquí encontrarás proyectos, prácticas y herramientas en constante evolución. 
 
 ## ⚡ Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu_correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-de-maguregui-s%C3%A1nchez-15b770323/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:demagureguisanchezgonzalo@gmail.com)
