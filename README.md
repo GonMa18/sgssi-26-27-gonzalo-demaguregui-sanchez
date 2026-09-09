@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=GonMa18&style=flat-square&color=blue" alt="Visitor Count" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GonMa18&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
